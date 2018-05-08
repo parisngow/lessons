@@ -9,7 +9,7 @@ class Target {
   }
   
   void update() {
-    targets.add();
+    loc.add(speed);
   }
   
   void draw() {
